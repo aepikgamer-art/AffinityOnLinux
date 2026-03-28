@@ -82,3 +82,5 @@ The Affinity apps installed with Bottles are located at the following location:
     ```shell
    WINEPREFIX="$HOME/.var/app/com.usebottles.bottles/data/bottles/bottles/Affinity" wine regedit wine-dark-theme.reg
    ```
+3. If you are experiencing the maintanance repair window do as follows.
+In your bottle select "Add Shortcuts" then go to drive_c\Program Files\Affinity\Affinity then select the "Affinity.exe" And press "Add.
